@@ -1,16 +1,16 @@
-### Hi there 👋
+# [О себе](https://github.com/grigoriqz)
 
-<!--
-**grigoriqz/grigoriqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Григорий и я студент на 1 курса ЧувГУ
 
-Here are some ideas to get you started:
+Какие языки я знаю/изучаю:
+* ***C#***
+  * ***C++***
+  * ***SQL***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Движки на которых разрабатываю:
+* ***Unity 2D/3D*** 
+
+Мои достижения:
+- [x] Вступить во 2-ой этап отбора на Хакатон
+
+[тут я](https://vk.com/grigoriqz)
